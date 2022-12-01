@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisbitter
-- 🎓 I'm currently working on my dissertation with the working title "Physically-informed cross-robot transfer learning in reinforcement learning"
-  - 💡 tldr: How can experience (policies, expert trajectories) be transfered between robots of different morphology, i.e. different state and action spaces
+- 🎓 I'm currently working on my dissertation with the preliminary title "Cross-Domain Transfer in Deep Reinforcement Learning for Industrial Robotics"
+  - 💡 tldr: How can we make deep reinforcement learning more efficient and applicable for industrial robotic use-cases? By leveraging knowledge gained from simulations, other tasks and even other robots!
   - 🏁 I plan on finishing summer 2023
 - 👀 I’m interested in
   - 🤖 teaching robots new skills
