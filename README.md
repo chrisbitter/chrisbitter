@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisbitter
-- 🎓 I'm currently working on my dissertation with the preliminary title "Cross-Domain Transfer in Deep Reinforcement Learning for Industrial Robotics"
-  - 💡 tldr: How can we make deep reinforcement learning more efficient and applicable for industrial robotic use-cases? By leveraging knowledge gained from simulations, other tasks and even other robots!
-  - 🏁 I plan on finishing summer 2023
+- 🦁 I'm currently working as a Senior Robotics and AI Engineer at Circu Li-Ion on the automation of battery disassembly for up- & recycling
+- 🎓 I'm also working on my dissertation with the preliminary title "Cross-Domain Deep Transfer Reinforcement Learning for Industrial Robotics" with Prof. Tobias Meisen
+  - 💡 tldr: How can we make deep reinforcement learning more efficient and applicable for industrial robotic use-cases? By leveraging knowledge gained from simulations, other tasks and even other robots?!
 - 👀 I’m interested in
   - 🤖 teaching robots new skills
   - 🌍 real-world applications of machine learning
